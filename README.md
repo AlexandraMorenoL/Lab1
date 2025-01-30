@@ -9,8 +9,7 @@ Archivo Readme
 
 Editando archivo 
 segunda edicion
-intelliJ edicion
-
+edicion IntelliJ Angie
 
 Segunda prueba de edición 
 Tercer cambio con Git
