@@ -7,8 +7,6 @@ prueba 1.1
 
 Archivo Readme
 
-intelliJ edicion
-
 
 Segunda prueba de edición 
 Tercer cambio con Git
