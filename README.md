@@ -7,7 +7,7 @@ prueba 1
 
 Archivo Readme
 
-<<<<<<< HEAD
+
 Editando archivo 
 segunda edicion
 edicion IntelliJ Angie
